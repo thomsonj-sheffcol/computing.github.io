@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-sam_100_0036",
-      "name": "SAM_100_0036",
+      "id": "0-the-wandisco-academy",
+      "name": "The WANdisco Academy",
       "levels": [
         {
           "tileSize": 256,
@@ -81,8 +81,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-sam_100_0027",
-      "name": "SAM_100_0027",
+      "id": "1-the-millgate-academy",
+      "name": "The Millgate Academy",
       "levels": [
         {
           "tileSize": 256,
@@ -167,7 +167,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Computing Technologies",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
